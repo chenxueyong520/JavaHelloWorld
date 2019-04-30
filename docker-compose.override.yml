@@ -5,4 +5,4 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:
-      - "8800:8080"
+      - "8800:80"
